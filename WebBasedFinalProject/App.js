@@ -17,6 +17,7 @@ import {
 let deviceHeight = Dimensions.get('window').height;
 let deviceWidth = Dimensions.get('window').width;
 // const [toggleCheckBox, setToggleCheckBox] = false;
+let pizza = 'pizza yaya'
 
 export default class App extends Component {
   state = {
